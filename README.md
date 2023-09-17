@@ -3,4 +3,4 @@ Mint dapp deployed with Spheron to IPFS https://simple-mint-dapp-8b285e.spheron.
 
 ERC721 Contract deployed with Bunzz 
 
-Contract on Polygon Mumbai https://mumbai.polygonscan.com/address/0x77DdDe24633690c1ef4d7ac4ABd40C97e11724F5
+Contract on Polygon Mumbai https://mumbai.polygonscan.com/address/0x9524a647e688d9D71976B404582c2958A974242A

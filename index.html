@@ -28,6 +28,7 @@
 
         // Function to mint an NFT
         async function mintNFT() {
+            console.log("Minting now");
             try {
                 const accounts = await web3.eth.getAccounts();
                 if (accounts.length === 0) {

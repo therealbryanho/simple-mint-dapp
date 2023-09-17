@@ -1,5 +1,5 @@
 
-Mint dapp deployed with Spheron to IPFS https://bafybeifza7wgerkjm64azfgzbmiz22ldm2ctutquc4luhhsgfemr33vfzq.ipfs.sphn.link/
+Mint dapp deployed with Spheron to IPFS https://simple-mint-dapp-8b285e.spheron.app/
 
 ERC721 Contract deployed with Bunzz 
 

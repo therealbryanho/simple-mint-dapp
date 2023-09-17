@@ -49,24 +49,14 @@
                 await contract.methods.mint(owner).send({ from: owner });
 
                 alert('NFT Minted successfully!');
-                updateTotalSupply();
             } catch (error) {
                 console.error('Error minting NFT:', error);
             }
         }
 
-        // Function to fetch and update the total supply
-        async function updateTotalSupply() {
-            const totalSupply = await contract.methods.totalSupply().call();
-            document.getElementById('totalSupply').textContent = `Total Supply: ${totalSupply}`;
-        }
-
         // Event listener for the mint button
         const mintButton = document.getElementById('mintButton');
         mintButton.addEventListener('click', mintNFT);
-
-        // Initial update of total supply
-        //updateTotalSupply();
     </script>
     </div>
 </body>
